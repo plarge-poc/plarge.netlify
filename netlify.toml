@@ -1,4 +1,3 @@
 [build]
-  project = "Plarge/Plarge.csproj"
   publish = "output"
-  command = "dotnet run"
+  command = "dotnet run --project plarge"
