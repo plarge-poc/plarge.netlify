@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Plarge": {
+      "commandName": "Project",
+      "commandLineArgs": "preview"
+    }
+  }
+}
